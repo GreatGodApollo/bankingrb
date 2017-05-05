@@ -6,7 +6,7 @@ All accounts made by standard registering process have 10 cents in them.
 If you have ruby installed:
 1. `gem install sequel`
 2. Download this repository, either by cloning or downloading the zip.
-3. `cd bankingrb` or `cd folder containing files`
+3. `cd bankingrb` or `cd <folder containing files>`
 4. For windows: `ruby windows.rb` For Linux: `ruby linux.rb`
 
 ## Admin Usage
