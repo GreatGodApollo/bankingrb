@@ -1,6 +1,6 @@
 =begin
 Made by Brett Bender; 2017
-Designed for Windows, check https://github.com/beeztem/bankingrb for the linux version
+Designed for Linux, check https://github.com/beeztem/bankingrb for the Windows version
 =end
 
 # Gems Required
