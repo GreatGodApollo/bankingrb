@@ -1,3 +1,6 @@
+<!--
+Made by Brett Bender; 2017
+-->
 # bankingrb
 A simple banking solution made in ruby, not very secure.
 All accounts made by standard registering process have 10 cents in them.
